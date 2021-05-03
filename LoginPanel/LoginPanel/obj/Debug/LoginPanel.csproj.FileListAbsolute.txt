@@ -1,0 +1,10 @@
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe.config
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.pdb
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.pdb
+C:\Users\Ahmet\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.frmLogin.resources
